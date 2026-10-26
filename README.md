@@ -1,15 +1,15 @@
-# Hackathon Project - Développement & Collaboration
+# 🚀 Hackathon Project - Développement & Collaboration
 
 ![Project](https://img.shields.io/badge/Type-Hackathon-blue)
 ![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-green)
 ![Domain](https://img.shields.io/badge/Domain-IT%20%2F%20Cybersecurity-red)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange)
 
-Projet réalisé dans le cadre d’un **hackathon**, avec un objectif de conception rapide d’une solution technique répondant à une problématique donnée.
+> Projet réalisé dans le cadre d’un **hackathon**, avec un objectif de conception rapide d’une solution technique répondant à une problématique donnée.
 
 ---
 
-## Résumé exécutif
+## 📋 Présentation
 
 Participation à un hackathon avec conception et réalisation d’un projet en temps limité, impliquant **analyse du besoin**, **développement rapide** et **présentation d’une solution fonctionnelle**.
 
@@ -17,7 +17,7 @@ Objectif : démontrer la capacité à **travailler sous contrainte**, **collabor
 
 ---
 
-## Contexte
+## 🧭 Contexte
 
 Le projet s’inscrit dans un environnement de hackathon avec :
 
@@ -28,7 +28,7 @@ Le projet s’inscrit dans un environnement de hackathon avec :
 
 ---
 
-## Réalisations clés
+## ✅ Réalisations clés
 
 * Analyse rapide du besoin et définition de la solution
 * Conception d’un prototype fonctionnel
@@ -38,7 +38,7 @@ Le projet s’inscrit dans un environnement de hackathon avec :
 
 ---
 
-## Approche technique
+## 🛠️ Approche technique
 
 Selon le contenu du PDF :
 
@@ -49,7 +49,7 @@ Selon le contenu du PDF :
 
 ---
 
-## Architecture (conceptuelle)
+## 🏗️ Architecture (conceptuelle)
 
 ```mermaid
 graph TD
@@ -60,7 +60,7 @@ graph TD
 
 ---
 
-## Compétences démontrées
+## 🧠 Compétences démontrées
 
 * Travail sous contrainte temporelle
 * Résolution de problèmes
@@ -71,7 +71,7 @@ graph TD
 
 ---
 
-## Limites
+## ⚠️ Limites
 
 * Projet réalisé en temps limité
 * Prototype (non industrialisé)
@@ -79,7 +79,7 @@ graph TD
 
 ---
 
-## Perspectives d’amélioration
+## 🔭 Perspectives d’amélioration
 
 * Industrialisation du projet
 * Ajout de fonctionnalités
@@ -88,7 +88,7 @@ graph TD
 
 ---
 
-## Valeur professionnelle
+## 💼 Valeur professionnelle
 
 Ce projet démontre la capacité à :
 
@@ -99,7 +99,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Structure du projet
+## 📁 Structure du dépôt
 
 ```text
 .
@@ -109,7 +109,7 @@ Ce projet démontre la capacité à :
 
 ---
 
-## Documentation
+## 📖 Documentation
 
 Le fichier `hackathon.pdf` contient :
 
@@ -119,7 +119,9 @@ Le fichier `hackathon.pdf` contient :
 
 ---
 
-## Auteur
+## 👤 Auteur
 
-Alexis Noiret
-Étudiant en cybersécurité
+**Alexis Noiret** — Bachelor IT Cybersécurité, La Plateforme
+
+- Portfolio : [alexis-noiret.students-laplateforme.io](https://alexis-noiret.students-laplateforme.io)
+- GitHub : [github.com/alexis-noiret](https://github.com/alexis-noiret)
